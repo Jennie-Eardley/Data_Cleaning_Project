@@ -1,0 +1,71 @@
+---
+title: "analysis"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+library(tidyverse)
+
+Clay had the longest long jump
+```{r}
+decathalon_data_long %>% 
+  filter(sport_type == "Long.jump") %>% 
+  arrange(desc(result)) %>% 
+  head(1)
+
+```
+The mean Decastar result in the 100m was 11.17538
+```{r}
+decathalon_data_long %>% 
+  filter(sport_type == "100m" & competition == "Decastar") %>% 
+  summarise(decastar_result = mean(result))
+  
+```
+The mean OlympicG result in the 100m was 10.91571
+```{r}
+decathalon_data_long %>% 
+  filter(sport_type == "100m" & competition == "OlympicG") %>% 
+  summarise(olympicg_result = mean(result))
+
+```
+Sebrle has the highest total points across both competitions
+```{r}
+decathalon_data_long %>% 
+  filter(sport_type == "100m") %>% 
+  group_by(name) %>% 
+  summarise(total_points = sum(points)) %>% 
+  arrange(desc(total_points)) %>% 
+  head(1)
+```
+The top scorers for shot put in the Decastar competition were Yurkov, Sebrle and Karpov
+```{r}
+decathalon_data_long %>% 
+  filter(sport_type == "Shot.put", competition == "Decastar") %>% 
+  arrange(desc(result)) %>% 
+  head(3)
+
+  
+
+```
+The top scorers for shot put in the OlympicG competition were Macey, Sebrle and Karpov
+```{r}
+decathalon_data_long %>% 
+  filter(sport_type == "Shot.put", competition == "OlympicG") %>% 
+  arrange(desc(result)) %>% 
+  head(3)
+```
+The average points for competitors who ran the 400m in more than 50 seconds is 7727.167
+```{r}
+decathalon_data_long %>% 
+  filter(sport_type == "400m", result >= 50) %>% 
+  summarise(mean_more_than_50 = mean(points))
+```
+The average points for competitors who ran the 400m in more than 50 seconds is 8120.483
+```{r}
+decathalon_data_long %>% 
+  filter(sport_type == "400m", result < 50) %>% 
+  summarise(mean_fewer_than_50 = mean(points))
+```
+

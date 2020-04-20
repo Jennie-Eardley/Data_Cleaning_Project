@@ -1,0 +1,63 @@
+---
+title: "analysis"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(tidyverse)
+```
+
+```{r}
+ship_bird_data <- read_csv("../clean_data/ship_bird_data")
+```
+The wandering albatross sensu lato had the most sightings 
+```{r}
+ship_bird_data %>% 
+  select(species_common_names, species_scientific_names, abbreviation) %>% 
+  group_by(species_common_names) %>% 
+  count(sightings = n()) %>% 
+  arrange(desc(sightings)) %>% 
+  head(1)
+```
+The short-tailed shearwater is the bird with the highest total count
+```{r}
+ship_bird_data %>%
+  select(species_common_names, species_scientific_names, abbreviation, observations) %>%
+  group_by(species_common_names) %>%
+  tally(observations) %>% 
+  arrange(desc(n)) %>% 
+  head(1)
+
+```
+The wedge-tailed shearwater has the highest total above a latitude of -30
+```{r}
+ship_bird_data %>%
+  select(species_common_names, species_scientific_names, abbreviation, observations, lat) %>%
+  filter(lat > -30) %>% 
+  group_by(species_common_names) %>%
+  tally(observations) %>% 
+  arrange(desc(n)) %>% 
+  head(1)
+```
+21 types of birds were only ever seen in groups of 1
+```{r}
+ship_bird_data %>% 
+  select(species_common_names, species_scientific_names, abbreviation, observations)  %>% 
+  group_by(species_common_names, species_scientific_names, abbreviation) %>% 
+  summarise(maximum_observations = max(observations)) %>% 
+  filter(maximum_observations == 1) %>% 
+  nrow()  
+```
+158 penguins were seen 
+```{r}
+ship_bird_data %>% 
+  select(species_common_names, species_scientific_names, abbreviation, observations) %>% 
+  filter(str_detect(species_common_names, "penguin|Penguin")) %>% 
+  tally(observations)
+
+```
+

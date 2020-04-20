@@ -1,0 +1,55 @@
+---
+title: "cake_ingredient_analysis"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+```{r}
+library(tidyverse)
+```
+
+The cake with the most cocoa is one bowl chocolate
+```{r}
+ordered_joined_cake_ingredients %>%
+  filter(ingredient == "Cocoa", quantity > 0) %>% 
+  arrange() %>% 
+  head(1)
+
+```
+Total cups of ingredients in sponge cake is 13.75
+```{r}
+ordered_joined_cake_ingredients %>% 
+  filter(cake == "Sponge", measure == "cup") %>% 
+  count(quantity) %>% 
+  sum()
+
+
+```
+Filtered to one specific cake because each cake lists all possible ingredients and measurments. This shows that a total of 8 ingredients are measured in teaspoons. 
+```{r}
+ordered_joined_cake_ingredients %>% 
+  filter(measure == "teaspoon", cake == "Angel") %>% 
+  count(n())
+
+```
+Babas au Rhum has the most unique ingredients 
+```{r}
+ordered_joined_cake_ingredients %>%
+  group_by(cake) %>% 
+  filter(quantity > 0) %>% 
+  count(n(), sort = TRUE, name = "number_of_times") %>% 
+  head(1)
+```
+These ingredients were only used once. 
+```{r}
+ordered_joined_cake_ingredients %>%
+  filter(quantity > 0) %>% 
+  group_by(ingredient) %>% 
+  count(number_of_times_used = n()) %>% 
+  filter(number_of_times_used == 1)
+  
+
+```
+

@@ -1,0 +1,613 @@
+cake,ingredient,quantity,measure
+Angel,Almond essence,0.25,teaspoon
+Angel,Buttermilk,0,cup
+Angel,Baking powder,0,teaspoon
+Angel,Butter,0,cup
+Angel,Bananas,0,one
+Angel,Cocoa,0,tablespoon
+Angel,Cottage Cheese,0,pound
+Angel,Chocolate,0,ounce
+Angel,Crushed Ice,0,cup
+Angel,Crumbs,0,cup
+Angel,Cream of tartar,1.25,teaspoon
+Angel,Dried currants,0,tablespoon
+Angel,Eggs,0,one
+Angel,Egg yolk,0,one
+Angel,Egg white,10,one
+Angel,Sifted flour,1,cup
+Angel,Gelatin,0,tablespoon
+Angel,Heavy cream,0,cup
+Angel,Lemon juice,0,tablespoon
+Angel,Lemon rind,0,teaspoon
+Angel,Milk,0,cup
+Angel,Nutmeg,0,teaspoon
+Angel,Nuts,0,cup
+Angel,Rum,0,ounce
+Angel,Soda,0,teaspoon
+Angel,Sour cream,0,cup
+Angel,Shortening,0,tablespoon
+Angel,Granulated sugar,1.5,cup
+Angel,Strawberries,0,quart
+Angel,Salt,0.25,teaspoon
+Angel,Vanilla extract,1,teaspoon
+Angel,Water,0,cup
+Angel,Yeast,0,ounce
+Angel,Zwiebach,0,ounce
+Babas au Rhum,Almond essence,0,teaspoon
+Babas au Rhum,Buttermilk,0,cup
+Babas au Rhum,Baking powder,0,teaspoon
+Babas au Rhum,Butter,0.25,cup
+Babas au Rhum,Bananas,0,one
+Babas au Rhum,Cocoa,0,tablespoon
+Babas au Rhum,Cottage Cheese,0,pound
+Babas au Rhum,Chocolate,0,ounce
+Babas au Rhum,Crushed Ice,0,cup
+Babas au Rhum,Crumbs,0,cup
+Babas au Rhum,Cream of tartar,0,teaspoon
+Babas au Rhum,Dried currants,3,tablespoon
+Babas au Rhum,Eggs,1,one
+Babas au Rhum,Egg yolk,2,one
+Babas au Rhum,Egg white,0,one
+Babas au Rhum,Sifted flour,1.75,cup
+Babas au Rhum,Gelatin,0,tablespoon
+Babas au Rhum,Heavy cream,0,cup
+Babas au Rhum,Lemon juice,0,tablespoon
+Babas au Rhum,Lemon rind,0.5,teaspoon
+Babas au Rhum,Milk,0.25,cup
+Babas au Rhum,Nutmeg,0,teaspoon
+Babas au Rhum,Nuts,0,cup
+Babas au Rhum,Rum,2,ounce
+Babas au Rhum,Soda,0,teaspoon
+Babas au Rhum,Sour cream,0,cup
+Babas au Rhum,Shortening,0,tablespoon
+Babas au Rhum,Granulated sugar,0.25,cup
+Babas au Rhum,Strawberries,0,quart
+Babas au Rhum,Salt,0,teaspoon
+Babas au Rhum,Vanilla extract,0,teaspoon
+Babas au Rhum,Water,0.25,cup
+Babas au Rhum,Yeast,0.6,ounce
+Babas au Rhum,Zwiebach,0,ounce
+Sweet Chocolate,Almond essence,0,teaspoon
+Sweet Chocolate,Buttermilk,0,cup
+Sweet Chocolate,Baking powder,0,teaspoon
+Sweet Chocolate,Butter,1,cup
+Sweet Chocolate,Bananas,0,one
+Sweet Chocolate,Cocoa,0,tablespoon
+Sweet Chocolate,Cottage Cheese,0,pound
+Sweet Chocolate,Chocolate,4,ounce
+Sweet Chocolate,Crushed Ice,0,cup
+Sweet Chocolate,Crumbs,0,cup
+Sweet Chocolate,Cream of tartar,0,teaspoon
+Sweet Chocolate,Dried currants,0,tablespoon
+Sweet Chocolate,Eggs,4,one
+Sweet Chocolate,Egg yolk,0,one
+Sweet Chocolate,Egg white,0,one
+Sweet Chocolate,Sifted flour,2.5,cup
+Sweet Chocolate,Gelatin,0,tablespoon
+Sweet Chocolate,Heavy cream,0,cup
+Sweet Chocolate,Lemon juice,0,tablespoon
+Sweet Chocolate,Lemon rind,0,teaspoon
+Sweet Chocolate,Milk,1,cup
+Sweet Chocolate,Nutmeg,0,teaspoon
+Sweet Chocolate,Nuts,0,cup
+Sweet Chocolate,Rum,0,ounce
+Sweet Chocolate,Soda,1,teaspoon
+Sweet Chocolate,Sour cream,0,cup
+Sweet Chocolate,Shortening,0,tablespoon
+Sweet Chocolate,Granulated sugar,2,cup
+Sweet Chocolate,Strawberries,0,quart
+Sweet Chocolate,Salt,0.5,teaspoon
+Sweet Chocolate,Vanilla extract,1,teaspoon
+Sweet Chocolate,Water,0.5,cup
+Sweet Chocolate,Yeast,0,ounce
+Sweet Chocolate,Zwiebach,0,ounce
+Buche de Noel,Almond essence,0,teaspoon
+Buche de Noel,Buttermilk,0,cup
+Buche de Noel,Baking powder,0,teaspoon
+Buche de Noel,Butter,0,cup
+Buche de Noel,Bananas,0,one
+Buche de Noel,Cocoa,0,tablespoon
+Buche de Noel,Cottage Cheese,0,pound
+Buche de Noel,Chocolate,0,ounce
+Buche de Noel,Crushed Ice,0,cup
+Buche de Noel,Crumbs,0,cup
+Buche de Noel,Cream of tartar,0,teaspoon
+Buche de Noel,Dried currants,0,tablespoon
+Buche de Noel,Eggs,4,one
+Buche de Noel,Egg yolk,0,one
+Buche de Noel,Egg white,0,one
+Buche de Noel,Sifted flour,1,cup
+Buche de Noel,Gelatin,0,tablespoon
+Buche de Noel,Heavy cream,0,cup
+Buche de Noel,Lemon juice,0,tablespoon
+Buche de Noel,Lemon rind,0,teaspoon
+Buche de Noel,Milk,0,cup
+Buche de Noel,Nutmeg,0,teaspoon
+Buche de Noel,Nuts,0,cup
+Buche de Noel,Rum,0,ounce
+Buche de Noel,Soda,0,teaspoon
+Buche de Noel,Sour cream,0,cup
+Buche de Noel,Shortening,0,tablespoon
+Buche de Noel,Granulated sugar,1.3,cup
+Buche de Noel,Strawberries,0,quart
+Buche de Noel,Salt,0.5,teaspoon
+Buche de Noel,Vanilla extract,1,teaspoon
+Buche de Noel,Water,0,cup
+Buche de Noel,Yeast,0,ounce
+Buche de Noel,Zwiebach,0,ounce
+Cheesecake,Almond essence,0,teaspoon
+Cheesecake,Buttermilk,0,cup
+Cheesecake,Baking powder,0,teaspoon
+Cheesecake,Butter,0.25,cup
+Cheesecake,Bananas,0,one
+Cheesecake,Cocoa,0,tablespoon
+Cheesecake,Cottage Cheese,1.5,pound
+Cheesecake,Chocolate,0,ounce
+Cheesecake,Crushed Ice,0,cup
+Cheesecake,Crumbs,0,cup
+Cheesecake,Cream of tartar,0,teaspoon
+Cheesecake,Dried currants,0,tablespoon
+Cheesecake,Eggs,6,one
+Cheesecake,Egg yolk,0,one
+Cheesecake,Egg white,0,one
+Cheesecake,Sifted flour,0.25,cup
+Cheesecake,Gelatin,0,tablespoon
+Cheesecake,Heavy cream,0,cup
+Cheesecake,Lemon juice,1,tablespoon
+Cheesecake,Lemon rind,1,teaspoon
+Cheesecake,Milk,0,cup
+Cheesecake,Nutmeg,0,teaspoon
+Cheesecake,Nuts,0,cup
+Cheesecake,Rum,0,ounce
+Cheesecake,Soda,0,teaspoon
+Cheesecake,Sour cream,1,cup
+Cheesecake,Shortening,0,tablespoon
+Cheesecake,Granulated sugar,1,cup
+Cheesecake,Strawberries,0,quart
+Cheesecake,Salt,0.25,teaspoon
+Cheesecake,Vanilla extract,0,teaspoon
+Cheesecake,Water,0,cup
+Cheesecake,Yeast,0,ounce
+Cheesecake,Zwiebach,6,ounce
+Rum Cheesecake,Almond essence,0,teaspoon
+Rum Cheesecake,Buttermilk,0,cup
+Rum Cheesecake,Baking powder,0,teaspoon
+Rum Cheesecake,Butter,0,cup
+Rum Cheesecake,Bananas,0,one
+Rum Cheesecake,Cocoa,0,tablespoon
+Rum Cheesecake,Cottage Cheese,1.5,pound
+Rum Cheesecake,Chocolate,0,ounce
+Rum Cheesecake,Crushed Ice,0,cup
+Rum Cheesecake,Crumbs,0,cup
+Rum Cheesecake,Cream of tartar,0,teaspoon
+Rum Cheesecake,Dried currants,0,tablespoon
+Rum Cheesecake,Eggs,2,one
+Rum Cheesecake,Egg yolk,0,one
+Rum Cheesecake,Egg white,0,one
+Rum Cheesecake,Sifted flour,0,cup
+Rum Cheesecake,Gelatin,2,tablespoon
+Rum Cheesecake,Heavy cream,1,cup
+Rum Cheesecake,Lemon juice,1,tablespoon
+Rum Cheesecake,Lemon rind,1,teaspoon
+Rum Cheesecake,Milk,1,cup
+Rum Cheesecake,Nutmeg,0,teaspoon
+Rum Cheesecake,Nuts,0,cup
+Rum Cheesecake,Rum,1,ounce
+Rum Cheesecake,Soda,0,teaspoon
+Rum Cheesecake,Sour cream,0,cup
+Rum Cheesecake,Shortening,0,tablespoon
+Rum Cheesecake,Granulated sugar,1,cup
+Rum Cheesecake,Strawberries,0,quart
+Rum Cheesecake,Salt,0.25,teaspoon
+Rum Cheesecake,Vanilla extract,0,teaspoon
+Rum Cheesecake,Water,0,cup
+Rum Cheesecake,Yeast,0,ounce
+Rum Cheesecake,Zwiebach,0,ounce
+Blender Cheesecake,Almond essence,0,teaspoon
+Blender Cheesecake,Buttermilk,0,cup
+Blender Cheesecake,Baking powder,0,teaspoon
+Blender Cheesecake,Butter,0,cup
+Blender Cheesecake,Bananas,0,one
+Blender Cheesecake,Cocoa,0,tablespoon
+Blender Cheesecake,Cottage Cheese,0.5,pound
+Blender Cheesecake,Chocolate,0,ounce
+Blender Cheesecake,Crushed Ice,1,cup
+Blender Cheesecake,Crumbs,0.3,cup
+Blender Cheesecake,Cream of tartar,0,teaspoon
+Blender Cheesecake,Dried currants,0,tablespoon
+Blender Cheesecake,Eggs,0,one
+Blender Cheesecake,Egg yolk,2,one
+Blender Cheesecake,Egg white,0,one
+Blender Cheesecake,Sifted flour,0,cup
+Blender Cheesecake,Gelatin,1,tablespoon
+Blender Cheesecake,Heavy cream,0,cup
+Blender Cheesecake,Lemon juice,1,tablespoon
+Blender Cheesecake,Lemon rind,1,teaspoon
+Blender Cheesecake,Milk,0,cup
+Blender Cheesecake,Nutmeg,0,teaspoon
+Blender Cheesecake,Nuts,0,cup
+Blender Cheesecake,Rum,0,ounce
+Blender Cheesecake,Soda,0,teaspoon
+Blender Cheesecake,Sour cream,1,cup
+Blender Cheesecake,Shortening,0,tablespoon
+Blender Cheesecake,Granulated sugar,0,cup
+Blender Cheesecake,Strawberries,0,quart
+Blender Cheesecake,Salt,0,teaspoon
+Blender Cheesecake,Vanilla extract,0,teaspoon
+Blender Cheesecake,Water,0.5,cup
+Blender Cheesecake,Yeast,0,ounce
+Blender Cheesecake,Zwiebach,0,ounce
+One Bowl Chocolate,Almond essence,0,teaspoon
+One Bowl Chocolate,Buttermilk,0,cup
+One Bowl Chocolate,Baking powder,2,teaspoon
+One Bowl Chocolate,Butter,0,cup
+One Bowl Chocolate,Bananas,0,one
+One Bowl Chocolate,Cocoa,10,tablespoon
+One Bowl Chocolate,Cottage Cheese,0,pound
+One Bowl Chocolate,Chocolate,0,ounce
+One Bowl Chocolate,Crushed Ice,0,cup
+One Bowl Chocolate,Crumbs,0,cup
+One Bowl Chocolate,Cream of tartar,0,teaspoon
+One Bowl Chocolate,Dried currants,0,tablespoon
+One Bowl Chocolate,Eggs,2,one
+One Bowl Chocolate,Egg yolk,0,one
+One Bowl Chocolate,Egg white,0,one
+One Bowl Chocolate,Sifted flour,2,cup
+One Bowl Chocolate,Gelatin,0,tablespoon
+One Bowl Chocolate,Heavy cream,0,cup
+One Bowl Chocolate,Lemon juice,0,tablespoon
+One Bowl Chocolate,Lemon rind,0,teaspoon
+One Bowl Chocolate,Milk,0.7,cup
+One Bowl Chocolate,Nutmeg,0,teaspoon
+One Bowl Chocolate,Nuts,0,cup
+One Bowl Chocolate,Rum,0,ounce
+One Bowl Chocolate,Soda,0.5,teaspoon
+One Bowl Chocolate,Sour cream,0,cup
+One Bowl Chocolate,Shortening,10,tablespoon
+One Bowl Chocolate,Granulated sugar,1.5,cup
+One Bowl Chocolate,Strawberries,0,quart
+One Bowl Chocolate,Salt,0.25,teaspoon
+One Bowl Chocolate,Vanilla extract,1,teaspoon
+One Bowl Chocolate,Water,0.5,cup
+One Bowl Chocolate,Yeast,0,ounce
+One Bowl Chocolate,Zwiebach,0,ounce
+Red Devil's Food,Almond essence,0,teaspoon
+Red Devil's Food,Buttermilk,0,cup
+Red Devil's Food,Baking powder,0,teaspoon
+Red Devil's Food,Butter,0,cup
+Red Devil's Food,Bananas,0,one
+Red Devil's Food,Cocoa,0.3,tablespoon
+Red Devil's Food,Cottage Cheese,0,pound
+Red Devil's Food,Chocolate,0,ounce
+Red Devil's Food,Crushed Ice,0,cup
+Red Devil's Food,Crumbs,0,cup
+Red Devil's Food,Cream of tartar,0,teaspoon
+Red Devil's Food,Dried currants,0,tablespoon
+Red Devil's Food,Eggs,2,one
+Red Devil's Food,Egg yolk,0,one
+Red Devil's Food,Egg white,0,one
+Red Devil's Food,Sifted flour,1.75,cup
+Red Devil's Food,Gelatin,0,tablespoon
+Red Devil's Food,Heavy cream,0,cup
+Red Devil's Food,Lemon juice,0,tablespoon
+Red Devil's Food,Lemon rind,0,teaspoon
+Red Devil's Food,Milk,1,cup
+Red Devil's Food,Nutmeg,0,teaspoon
+Red Devil's Food,Nuts,0,cup
+Red Devil's Food,Rum,0,ounce
+Red Devil's Food,Soda,1.25,teaspoon
+Red Devil's Food,Sour cream,0,cup
+Red Devil's Food,Shortening,0.5,tablespoon
+Red Devil's Food,Granulated sugar,1.5,cup
+Red Devil's Food,Strawberries,0,quart
+Red Devil's Food,Salt,1,teaspoon
+Red Devil's Food,Vanilla extract,1,teaspoon
+Red Devil's Food,Water,0,cup
+Red Devil's Food,Yeast,0,ounce
+Red Devil's Food,Zwiebach,0,ounce
+Sour Cream Fudge,Almond essence,0,teaspoon
+Sour Cream Fudge,Buttermilk,0,cup
+Sour Cream Fudge,Baking powder,0,teaspoon
+Sour Cream Fudge,Butter,0,cup
+Sour Cream Fudge,Bananas,0,one
+Sour Cream Fudge,Cocoa,0,tablespoon
+Sour Cream Fudge,Cottage Cheese,0,pound
+Sour Cream Fudge,Chocolate,3,ounce
+Sour Cream Fudge,Crushed Ice,0,cup
+Sour Cream Fudge,Crumbs,0,cup
+Sour Cream Fudge,Cream of tartar,0,teaspoon
+Sour Cream Fudge,Dried currants,0,tablespoon
+Sour Cream Fudge,Eggs,2,one
+Sour Cream Fudge,Egg yolk,0,one
+Sour Cream Fudge,Egg white,0,one
+Sour Cream Fudge,Sifted flour,2,cup
+Sour Cream Fudge,Gelatin,0,tablespoon
+Sour Cream Fudge,Heavy cream,0,cup
+Sour Cream Fudge,Lemon juice,0,tablespoon
+Sour Cream Fudge,Lemon rind,0,teaspoon
+Sour Cream Fudge,Milk,0,cup
+Sour Cream Fudge,Nutmeg,0,teaspoon
+Sour Cream Fudge,Nuts,0,cup
+Sour Cream Fudge,Rum,0,ounce
+Sour Cream Fudge,Soda,1,teaspoon
+Sour Cream Fudge,Sour cream,1,cup
+Sour Cream Fudge,Shortening,0.3,tablespoon
+Sour Cream Fudge,Granulated sugar,1.5,cup
+Sour Cream Fudge,Strawberries,0,quart
+Sour Cream Fudge,Salt,1,teaspoon
+Sour Cream Fudge,Vanilla extract,1,teaspoon
+Sour Cream Fudge,Water,0.25,cup
+Sour Cream Fudge,Yeast,0,ounce
+Sour Cream Fudge,Zwiebach,0,ounce
+Hungarian Cream,Almond essence,1.5,teaspoon
+Hungarian Cream,Buttermilk,0,cup
+Hungarian Cream,Baking powder,3,teaspoon
+Hungarian Cream,Butter,0,cup
+Hungarian Cream,Bananas,0,one
+Hungarian Cream,Cocoa,0,tablespoon
+Hungarian Cream,Cottage Cheese,0,pound
+Hungarian Cream,Chocolate,0,ounce
+Hungarian Cream,Crushed Ice,0,cup
+Hungarian Cream,Crumbs,0,cup
+Hungarian Cream,Cream of tartar,0,teaspoon
+Hungarian Cream,Dried currants,0,tablespoon
+Hungarian Cream,Eggs,3,one
+Hungarian Cream,Egg yolk,0,one
+Hungarian Cream,Egg white,0,one
+Hungarian Cream,Sifted flour,3,cup
+Hungarian Cream,Gelatin,0,tablespoon
+Hungarian Cream,Heavy cream,2,cup
+Hungarian Cream,Lemon juice,0,tablespoon
+Hungarian Cream,Lemon rind,0,teaspoon
+Hungarian Cream,Milk,0,cup
+Hungarian Cream,Nutmeg,0,teaspoon
+Hungarian Cream,Nuts,0,cup
+Hungarian Cream,Rum,0,ounce
+Hungarian Cream,Soda,0,teaspoon
+Hungarian Cream,Sour cream,0,cup
+Hungarian Cream,Shortening,0,tablespoon
+Hungarian Cream,Granulated sugar,1.5,cup
+Hungarian Cream,Strawberries,0,quart
+Hungarian Cream,Salt,1,teaspoon
+Hungarian Cream,Vanilla extract,2,teaspoon
+Hungarian Cream,Water,0,cup
+Hungarian Cream,Yeast,0,ounce
+Hungarian Cream,Zwiebach,0,ounce
+Crumb and Nut,Almond essence,0,teaspoon
+Crumb and Nut,Buttermilk,0,cup
+Crumb and Nut,Baking powder,3,teaspoon
+Crumb and Nut,Butter,0,cup
+Crumb and Nut,Bananas,0,one
+Crumb and Nut,Cocoa,0,tablespoon
+Crumb and Nut,Cottage Cheese,0,pound
+Crumb and Nut,Chocolate,0,ounce
+Crumb and Nut,Crushed Ice,0,cup
+Crumb and Nut,Crumbs,3,cup
+Crumb and Nut,Cream of tartar,0,teaspoon
+Crumb and Nut,Dried currants,0,tablespoon
+Crumb and Nut,Eggs,4,one
+Crumb and Nut,Egg yolk,0,one
+Crumb and Nut,Egg white,0,one
+Crumb and Nut,Sifted flour,0,cup
+Crumb and Nut,Gelatin,0,tablespoon
+Crumb and Nut,Heavy cream,0,cup
+Crumb and Nut,Lemon juice,0,tablespoon
+Crumb and Nut,Lemon rind,0,teaspoon
+Crumb and Nut,Milk,1,cup
+Crumb and Nut,Nutmeg,0,teaspoon
+Crumb and Nut,Nuts,1,cup
+Crumb and Nut,Rum,0,ounce
+Crumb and Nut,Soda,0,teaspoon
+Crumb and Nut,Sour cream,0,cup
+Crumb and Nut,Shortening,1,tablespoon
+Crumb and Nut,Granulated sugar,1,cup
+Crumb and Nut,Strawberries,0,quart
+Crumb and Nut,Salt,0,teaspoon
+Crumb and Nut,Vanilla extract,2,teaspoon
+Crumb and Nut,Water,0,cup
+Crumb and Nut,Yeast,0,ounce
+Crumb and Nut,Zwiebach,0,ounce
+Spiced Pound,Almond essence,0,teaspoon
+Spiced Pound,Buttermilk,0,cup
+Spiced Pound,Baking powder,0,teaspoon
+Spiced Pound,Butter,1,cup
+Spiced Pound,Bananas,0,one
+Spiced Pound,Cocoa,0,tablespoon
+Spiced Pound,Cottage Cheese,0,pound
+Spiced Pound,Chocolate,0,ounce
+Spiced Pound,Crushed Ice,0,cup
+Spiced Pound,Crumbs,0,cup
+Spiced Pound,Cream of tartar,0,teaspoon
+Spiced Pound,Dried currants,0,tablespoon
+Spiced Pound,Eggs,5,one
+Spiced Pound,Egg yolk,0,one
+Spiced Pound,Egg white,0,one
+Spiced Pound,Sifted flour,2,cup
+Spiced Pound,Gelatin,0,tablespoon
+Spiced Pound,Heavy cream,0,cup
+Spiced Pound,Lemon juice,0,tablespoon
+Spiced Pound,Lemon rind,0,teaspoon
+Spiced Pound,Milk,0,cup
+Spiced Pound,Nutmeg,1.5,teaspoon
+Spiced Pound,Nuts,0,cup
+Spiced Pound,Rum,0,ounce
+Spiced Pound,Soda,0,teaspoon
+Spiced Pound,Sour cream,0,cup
+Spiced Pound,Shortening,0,tablespoon
+Spiced Pound,Granulated sugar,1.7,cup
+Spiced Pound,Strawberries,0,quart
+Spiced Pound,Salt,0.5,teaspoon
+Spiced Pound,Vanilla extract,0,teaspoon
+Spiced Pound,Water,0,cup
+Spiced Pound,Yeast,0,ounce
+Spiced Pound,Zwiebach,0,ounce
+Strawberry Roll,Almond essence,0,teaspoon
+Strawberry Roll,Buttermilk,0,cup
+Strawberry Roll,Baking powder,0.75,teaspoon
+Strawberry Roll,Butter,0,cup
+Strawberry Roll,Bananas,0,one
+Strawberry Roll,Cocoa,0,tablespoon
+Strawberry Roll,Cottage Cheese,0.5,pound
+Strawberry Roll,Chocolate,0,ounce
+Strawberry Roll,Crushed Ice,0,cup
+Strawberry Roll,Crumbs,0,cup
+Strawberry Roll,Cream of tartar,0,teaspoon
+Strawberry Roll,Dried currants,0,tablespoon
+Strawberry Roll,Eggs,4,one
+Strawberry Roll,Egg yolk,0,one
+Strawberry Roll,Egg white,0,one
+Strawberry Roll,Sifted flour,0.75,cup
+Strawberry Roll,Gelatin,0,tablespoon
+Strawberry Roll,Heavy cream,0,cup
+Strawberry Roll,Lemon juice,0,tablespoon
+Strawberry Roll,Lemon rind,0,teaspoon
+Strawberry Roll,Milk,0,cup
+Strawberry Roll,Nutmeg,0,teaspoon
+Strawberry Roll,Nuts,0,cup
+Strawberry Roll,Rum,0,ounce
+Strawberry Roll,Soda,0,teaspoon
+Strawberry Roll,Sour cream,0,cup
+Strawberry Roll,Shortening,0,tablespoon
+Strawberry Roll,Granulated sugar,0.75,cup
+Strawberry Roll,Strawberries,1,quart
+Strawberry Roll,Salt,1,teaspoon
+Strawberry Roll,Vanilla extract,1,teaspoon
+Strawberry Roll,Water,0,cup
+Strawberry Roll,Yeast,0,ounce
+Strawberry Roll,Zwiebach,0,ounce
+Savarin,Almond essence,0,teaspoon
+Savarin,Buttermilk,0,cup
+Savarin,Baking powder,0,teaspoon
+Savarin,Butter,0.7,cup
+Savarin,Bananas,0,one
+Savarin,Cocoa,0,tablespoon
+Savarin,Cottage Cheese,0,pound
+Savarin,Chocolate,0,ounce
+Savarin,Crushed Ice,0,cup
+Savarin,Crumbs,0,cup
+Savarin,Cream of tartar,0,teaspoon
+Savarin,Dried currants,0,tablespoon
+Savarin,Eggs,3,one
+Savarin,Egg yolk,0,one
+Savarin,Egg white,0,one
+Savarin,Sifted flour,1.5,cup
+Savarin,Gelatin,0,tablespoon
+Savarin,Heavy cream,0,cup
+Savarin,Lemon juice,0,tablespoon
+Savarin,Lemon rind,1,teaspoon
+Savarin,Milk,0.25,cup
+Savarin,Nutmeg,0,teaspoon
+Savarin,Nuts,0,cup
+Savarin,Rum,0,ounce
+Savarin,Soda,0,teaspoon
+Savarin,Sour cream,0,cup
+Savarin,Shortening,0,tablespoon
+Savarin,Granulated sugar,0.6,cup
+Savarin,Strawberries,0,quart
+Savarin,Salt,0.5,teaspoon
+Savarin,Vanilla extract,0,teaspoon
+Savarin,Water,0.25,cup
+Savarin,Yeast,1,ounce
+Savarin,Zwiebach,0,ounce
+Banana Shortcake,Almond essence,0,teaspoon
+Banana Shortcake,Buttermilk,0,cup
+Banana Shortcake,Baking powder,4,teaspoon
+Banana Shortcake,Butter,0.6,cup
+Banana Shortcake,Bananas,3,one
+Banana Shortcake,Cocoa,0,tablespoon
+Banana Shortcake,Cottage Cheese,0,pound
+Banana Shortcake,Chocolate,0,ounce
+Banana Shortcake,Crushed Ice,0,cup
+Banana Shortcake,Crumbs,0,cup
+Banana Shortcake,Cream of tartar,0,teaspoon
+Banana Shortcake,Dried currants,0,tablespoon
+Banana Shortcake,Eggs,0,one
+Banana Shortcake,Egg yolk,0,one
+Banana Shortcake,Egg white,0,one
+Banana Shortcake,Sifted flour,3,cup
+Banana Shortcake,Gelatin,0,tablespoon
+Banana Shortcake,Heavy cream,1,cup
+Banana Shortcake,Lemon juice,0,tablespoon
+Banana Shortcake,Lemon rind,0,teaspoon
+Banana Shortcake,Milk,1,cup
+Banana Shortcake,Nutmeg,0,teaspoon
+Banana Shortcake,Nuts,0,cup
+Banana Shortcake,Rum,0,ounce
+Banana Shortcake,Soda,0,teaspoon
+Banana Shortcake,Sour cream,0,cup
+Banana Shortcake,Shortening,0,tablespoon
+Banana Shortcake,Granulated sugar,0.13,cup
+Banana Shortcake,Strawberries,0,quart
+Banana Shortcake,Salt,0.5,teaspoon
+Banana Shortcake,Vanilla extract,0,teaspoon
+Banana Shortcake,Water,0,cup
+Banana Shortcake,Yeast,0,ounce
+Banana Shortcake,Zwiebach,0,ounce
+Strawberry Shortcake,Almond essence,0,teaspoon
+Strawberry Shortcake,Buttermilk,0,cup
+Strawberry Shortcake,Baking powder,3,teaspoon
+Strawberry Shortcake,Butter,0.12,cup
+Strawberry Shortcake,Bananas,0,one
+Strawberry Shortcake,Cocoa,0,tablespoon
+Strawberry Shortcake,Cottage Cheese,0.2,pound
+Strawberry Shortcake,Chocolate,0,ounce
+Strawberry Shortcake,Crushed Ice,0,cup
+Strawberry Shortcake,Crumbs,0,cup
+Strawberry Shortcake,Cream of tartar,0,teaspoon
+Strawberry Shortcake,Dried currants,0,tablespoon
+Strawberry Shortcake,Eggs,1,one
+Strawberry Shortcake,Egg yolk,0,one
+Strawberry Shortcake,Egg white,0,one
+Strawberry Shortcake,Sifted flour,2,cup
+Strawberry Shortcake,Gelatin,0,tablespoon
+Strawberry Shortcake,Heavy cream,0,cup
+Strawberry Shortcake,Lemon juice,0,tablespoon
+Strawberry Shortcake,Lemon rind,0,teaspoon
+Strawberry Shortcake,Milk,0.5,cup
+Strawberry Shortcake,Nutmeg,0,teaspoon
+Strawberry Shortcake,Nuts,0,cup
+Strawberry Shortcake,Rum,0,ounce
+Strawberry Shortcake,Soda,0,teaspoon
+Strawberry Shortcake,Sour cream,1,cup
+Strawberry Shortcake,Shortening,0,tablespoon
+Strawberry Shortcake,Granulated sugar,0.6,cup
+Strawberry Shortcake,Strawberries,1,quart
+Strawberry Shortcake,Salt,0.75,teaspoon
+Strawberry Shortcake,Vanilla extract,0,teaspoon
+Strawberry Shortcake,Water,0,cup
+Strawberry Shortcake,Yeast,0,ounce
+Strawberry Shortcake,Zwiebach,0,ounce
+Sponge,Almond essence,0.5,teaspoon
+Sponge,Buttermilk,0,cup
+Sponge,Baking powder,1,teaspoon
+Sponge,Butter,0,cup
+Sponge,Bananas,0,one
+Sponge,Cocoa,0,tablespoon
+Sponge,Cottage Cheese,0,pound
+Sponge,Chocolate,0,ounce
+Sponge,Crushed Ice,0,cup
+Sponge,Crumbs,0,cup
+Sponge,Cream of tartar,0,teaspoon
+Sponge,Dried currants,0,tablespoon
+Sponge,Eggs,4,one
+Sponge,Egg yolk,0,one
+Sponge,Egg white,0,one
+Sponge,Sifted flour,0.75,cup
+Sponge,Gelatin,0,tablespoon
+Sponge,Heavy cream,0,cup
+Sponge,Lemon juice,0,tablespoon
+Sponge,Lemon rind,0,teaspoon
+Sponge,Milk,0,cup
+Sponge,Nutmeg,0,teaspoon
+Sponge,Nuts,0,cup
+Sponge,Rum,0,ounce
+Sponge,Soda,0,teaspoon
+Sponge,Sour cream,0,cup
+Sponge,Shortening,0,tablespoon
+Sponge,Granulated sugar,0.75,cup
+Sponge,Strawberries,0,quart
+Sponge,Salt,0.25,teaspoon
+Sponge,Vanilla extract,0,teaspoon
+Sponge,Water,2,cup
+Sponge,Yeast,0,ounce
+Sponge,Zwiebach,0,ounce

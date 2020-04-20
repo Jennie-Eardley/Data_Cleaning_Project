@@ -1,0 +1,86 @@
+---
+title: "Project Overview"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(readr)
+ship_bird_data <- read_csv("../clean_data/ship_bird_data")
+```
+
+
+
+## Background Information
+
+This dataset is about sightings of birds from ships between 1899 and 1990. It gives detailed information about the birds.
+
+## Assumptions Made
+
+* That some people might be interested in the sightings where there were no birds
+* Kept the NA values as I decided there wasn't enough other information to impute 
+
+## Challenges
+
+* Confusion about loading here function
+* Removing the extra information from the species columns
+* Difficulty working out how to exclude birds that had been used more than once
+
+## Data Cleaning Steps
+
+* Removed columns without unique values
+* Joined the pages together on the record_id column
+* Removed extra information from the common names, scientific names and abbreviations 
+* Reordered the columns
+
+## Analysis
+
+1. The wandering albatross sensu lato had the most sightings 
+```{r}
+ship_bird_data %>% 
+  select(species_common_names, species_scientific_names, abbreviation) %>% 
+  group_by(species_common_names) %>% 
+  count(sightings = n()) %>% 
+  arrange(desc(sightings)) %>% 
+  head(1)
+```
+
+2. The short-tailed shearwater is the bird with the highest total count
+```{r}
+ship_bird_data %>%
+  select(species_common_names, species_scientific_names, abbreviation, observations) %>%
+  group_by(species_common_names) %>%
+  tally(observations) %>% 
+  arrange(desc(n)) %>% 
+  head(1)
+```
+
+3. The wedge-tailed shearwater has the highest total above a latitude of -30
+```{r}
+ship_bird_data %>%
+  select(species_common_names, species_scientific_names, abbreviation, observations, lat) %>%
+  filter(lat > -30) %>% 
+  group_by(species_common_names) %>%
+  tally(observations) %>% 
+  arrange(desc(n)) %>% 
+  head(1)
+```
+
+4. 21 types of birds were only ever seen in groups of 1
+```{r}
+ship_bird_data %>% 
+  select(species_common_names, species_scientific_names, abbreviation, observations)  %>% 
+  group_by(species_common_names, species_scientific_names, abbreviation) %>% 
+  summarise(maximum_observations = max(observations)) %>% 
+  filter(maximum_observations == 1) %>% 
+  nrow()  
+```
+
+5. 158 penguins were observed
+```{r}
+ship_bird_data %>% 
+  select(species_common_names, species_scientific_names, abbreviation, observations) %>% 
+  filter(str_detect(species_common_names, "penguin|Penguin")) %>% 
+  tally(observations)
+```
