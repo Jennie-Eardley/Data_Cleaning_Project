@@ -6,3 +6,5 @@ data.table
 <br> janitor
 <br> readr
 <br> tidyverse
+# Files
+Files for each section of the project include the raw data file, a script to clean it and a finished file displaying analysis of the data. 
